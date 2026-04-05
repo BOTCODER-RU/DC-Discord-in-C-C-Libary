@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/d/opensource/DC/build-wsl/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

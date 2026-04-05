@@ -1,0 +1,4 @@
+/mnt/d/opensource/DC/build-wsl/CMakeFiles/discordc.dir
+/mnt/d/opensource/DC/build-wsl/CMakeFiles/discordc_example.dir
+/mnt/d/opensource/DC/build-wsl/CMakeFiles/edit_cache.dir
+/mnt/d/opensource/DC/build-wsl/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/sbin/ar qc libdiscordc.a CMakeFiles/discordc.dir/src/client.c.o CMakeFiles/discordc.dir/src/models.c.o CMakeFiles/discordc.dir/src/rest.c.o CMakeFiles/discordc.dir/src/router.c.o CMakeFiles/discordc.dir/src/gateway.c.o
+/usr/sbin/ranlib libdiscordc.a
