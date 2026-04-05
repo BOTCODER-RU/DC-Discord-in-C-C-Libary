@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-C-blue)
 ![Build](https://img.shields.io/badge/build-CMake-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
+![License](https://img.shields.io/badge/license-GNU%20GPL%20v3-blue)
 
 Библиотека `DC` (Discord in C) — это библиотека, разработанная на языке программирования C для взаимодействия с Discord API. Основная цель проекта — предоставить простой и достаточно низкоуровневый инструмент для создания Discord-ботов и других приложений, использующих возможности Discord напрямую из C.
 
